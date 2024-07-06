@@ -69,3 +69,9 @@ Datos presentados como series temporales de datos cuantitativos, provenientes de
 
 El material del taller está disponible en [https://github.com/dcanulr/taller_python_uacam](https://github.com/dcanulr/taller_python_uacam)
 ![](./figs/qrcode_github.png){fig-align="center"}
+
+## Instalación de Python
+
+Existen muchas maneras en las que podemos utilizar python. Mi recomendación es utilizar WinPython [https://winpython.github.io/](https://winpython.github.io/).
+
+Una segunda opción es a través de Google Colab [https://colab.research.google.com/](https://colab.research.google.com/), funcional pero si se puede evitar mejor (a mi parecer).
