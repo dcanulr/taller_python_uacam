@@ -63,4 +63,9 @@ Datos presentados como series temporales de datos cuantitativos, provenientes de
 - Conocimientos básicos de estadística
 - Conocimientos básicos de python
 - Tener una instalación de python como Jupyter Notebook, ó 
-- Tener acceso a una cuenta en Google Colab [https://colab.research.google.com/]
+- Tener acceso a una cuenta en Google Colab [https://colab.research.google.com/](https://colab.research.google.com/)
+
+## Material del taller
+
+El material del taller está disponible en [https://github.com/dcanulr/taller_python_uacam](https://github.com/dcanulr/taller_python_uacam)
+![](./figs/qrcode_github.png){fig-align="center"}
