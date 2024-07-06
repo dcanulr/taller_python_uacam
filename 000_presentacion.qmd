@@ -1,0 +1,66 @@
+---
+title: "Herramientas de análisis estadístico y visualización de series temporales con Python 👨🏽‍💻🐍"
+format: revealjs
+---
+## Objetivo
+
+Capacitar a los participantes en el uso de herramientas de Python para la visualización y análisis estadístico de datos cuantitativos, especialmente series temporales, y proporcionar un flujo de trabajo para realizar un análisis exploratorio inicial de datos.
+
+## M. I. Diego Arturo Canul Reyes 
+
+##### dacr@ier.unam.mx
+
+:::: {.columns}
+
+::: {.column width="80%" style="font-size: 65%;"}
+**Líneas de investigación:**
+
+- Modelado y evaluación del recurso eólico para aplicaciones en tierra y en mar
+- Análisis dinámico de turbinas eólicas flotantes
+- Análisis de la complementariedad de los recursos eólicos y solar para satisfacer la demanda eléctrica
+:::
+
+::: {.column width="20%"}
+![](./figs/canul2.png){width=80% fig-align="center"}
+:::
+::::
+::: {style="font-size: 65%; margin-top: -1em;"}
+**Datos usuales:**
+
+Datos presentados como series temporales de datos cuantitativos, provenientes de modelos y simulaciones meteorológicas así como observaciones reales; principalmente variables meterológicas como viento, radiación, temperatura, entre otros.
+:::
+
+## Temario {.scrollable .smaller}
+
+### Día 1
+- Introducción al entorno de Jupyter Notebook
+- Introducción a matplotlib para graficar
+    - Estructura de una gráfica
+    - Gráficas personalizadas 
+- Introducción a pandas para series temporales
+    - Estructura de un df
+    - Operaciones básicas en un df
+
+### Día 2
+- Definición de funciones en python
+- Funciones y df
+- Estimación de parámetros estadísticos
+- Boxplots
+
+### Día 3
+- Histogramas
+- Ajuste de Funciones de densidad de probabilidad
+- Pruebas de bondad de ajuste
+- Histogramas en 2D
+
+### Día 4
+- Operaciones para series temporales
+- Análisis de autocorrelación y correlación
+- Identificación de patrones
+
+## Requisitos
+- Computadora con acceso a internet
+- Conocimientos básicos de estadística
+- Conocimientos básicos de python
+- Tener una instalación de python como Jupyter Notebook, ó 
+- Tener acceso a una cuenta en Google Colab [https://colab.research.google.com/]
