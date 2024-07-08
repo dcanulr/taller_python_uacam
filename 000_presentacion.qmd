@@ -24,10 +24,19 @@ Capacitar a los participantes en el uso de herramientas de Python para la visual
 ![](./figs/canul2.png){width=80% fig-align="center"}
 :::
 ::::
-::: {style="font-size: 65%; margin-top: -1em;"}
+
+## Diego Canul 
+**Energía Eólica**
+
+###### dacr@ier.unam.mx
+
+
+![](./figs/canul2.png){fig-align="center"}
+
+::: {style="font-size: 75%; margin-top: -1em;"}
 **Datos usuales:**
 
-Datos presentados como series temporales de datos cuantitativos, provenientes de modelos y simulaciones meteorológicas así como observaciones reales; principalmente variables meterológicas como viento, radiación, temperatura, entre otros.
+Datos presentados como series temporales de datos cuantitativos, provenientes de modelos y simulaciones así como observaciones reales; principalmente variables meterológicas como viento, radiación, temperatura, entre otros.
 :::
 
 ## Temario {.scrollable .smaller}
