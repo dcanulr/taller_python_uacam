@@ -1,3 +1,4 @@
 *.html
 000_presentacion_files/
 .ipynb_checkpoints/
+notebooks_clase/
