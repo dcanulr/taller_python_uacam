@@ -74,13 +74,21 @@ Datos presentados como series temporales de datos cuantitativos, provenientes de
 - Tener una instalación de python como Jupyter Notebook, ó 
 - Tener acceso a una cuenta en Google Colab [https://colab.research.google.com/](https://colab.research.google.com/)
 
-## Material del taller
-
-El material del taller está disponible en [https://github.com/dcanulr/taller_python_uacam](https://github.com/dcanulr/taller_python_uacam)
-![](./figs/qrcode_github.png){fig-align="center"}
 
 ## Instalación de Python
 
 Existen muchas maneras en las que podemos utilizar python. Mi recomendación es utilizar WinPython [https://winpython.github.io/](https://winpython.github.io/).
 
 Una segunda opción es a través de Google Colab [https://colab.research.google.com/](https://colab.research.google.com/), funcional pero si se puede evitar mejor (a mi parecer).
+
+## Material del taller
+
+El material del taller está disponible en [https://github.com/dcanulr/taller_python_uacam](https://github.com/dcanulr/taller_python_uacam)
+![](./figs/qrcode_github.png){fig-align="center"}
+
+## Cursos de python
+
+- [Python de cero a infinito](https://educacioncontinua.ier.unam.mx/oferta/renovando-talentos/python-para-ingenier%C3%ADa)
+- [Python: de cero a usuario](https://www.coursera.org/programs/mooc-unam-en-coursera-para-ti-uzeau/learn/python-usuario)
+- [Python: de usuario a explorador de datos](https://www.coursera.org/learn/pythonexplorador)
+- [Python Bootcamp](https://altamarmx.github.io/python_bootcamp/)
